@@ -7,10 +7,13 @@ double deck wiki page in question if troubles occur
 
 Ex: Server (computing)
 
+<br />
 
 ### Program example
 
-![Wiki](https://user-images.githubusercontent.com/78878935/148342320-1b175c32-1006-452f-8439-22eb83df267b.png)
+![Wiki](https://user-images.githubusercontent.com/78878935/148347246-571b4301-456b-47c3-aee7-b6168a65b58c.png)
 
 
 Script uses a Breadth First Search on all wiki links within the first page until it finds the second page 
+
+Some pages may take much longer than others to find paths between

@@ -3,7 +3,7 @@
 The purpose of this script is to find the shortest path between two Wikipedia pages provided by the user
 
 :heavy_exclamation_mark: Due to the nature of Wikipedia title naming conventions, some titles use a dash or parenthesis,
-double deck wiki page in question if troubles occur
+double check wiki page in question if troubles occur
 
 Ex: Server (computing)
 
@@ -16,4 +16,4 @@ Ex: Server (computing)
 
 Script uses a Breadth First Search on all wiki links within the first page until it finds the second page 
 
-Some pages may take much longer than others to find paths between
+:warning: Some pages may take much longer than others to find paths between
